@@ -6,7 +6,7 @@ import * as path from 'path';
 import * as os from 'os';
 import * as fs from 'fs';
 import * as crypto from 'crypto';
-import mkdirp = require('mkdirp-promise');
+import mkdirp = require('mkdirp');
 
 const TARGET_MIME_TYPE = 'video/mp4';
 const STORAGE_TARGET_DIR = 'public/video';

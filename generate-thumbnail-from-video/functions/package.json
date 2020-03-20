@@ -18,13 +18,13 @@
     "@types/ffmpeg-static": "^2.0.0",
     "@types/ffprobe-static": "^2.0.0",
     "@types/fluent-ffmpeg": "^2.1.9",
-    "@types/mkdirp-promise": "^5.0.0",
+    "@types/mkdirp": "^1.0.0",
     "ffmpeg-static": "^2.4.0",
     "ffprobe-static": "^3.0.0",
     "firebase-admin": "^8.3.0",
     "firebase-functions": "^3.2.0",
     "fluent-ffmpeg": "^2.1.2",
-    "mkdirp-promise": "^5.0.1"
+    "mkdirp": "^1.0.3"
   },
   "devDependencies": {
     "tslint": "^5.12.0",
