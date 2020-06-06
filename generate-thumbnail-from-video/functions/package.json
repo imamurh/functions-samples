@@ -21,7 +21,7 @@
     "@types/mkdirp": "^1.0.0",
     "ffmpeg-static": "^2.4.0",
     "ffprobe-static": "^3.0.0",
-    "firebase-admin": "^8.3.0",
+    "firebase-admin": "^8.12.1",
     "firebase-functions": "^3.2.0",
     "fluent-ffmpeg": "^2.1.2",
     "mkdirp": "^1.0.3"
