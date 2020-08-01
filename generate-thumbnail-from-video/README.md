@@ -6,10 +6,10 @@ This sample demonstrates how to automatically generate thumbnails for each video
 
 ```sh
 firebase --version
-7.15.1
+8.6.0
 
 node -v
-v8.15.0
+v10.18.1
 ```
 
 ## Article
